@@ -1,7 +1,7 @@
 $('.header-right > a').click(function(){
-        $('.hamburger-menu').show('.active');
+        $('.hamburger-menu').show();
 });
 
 $('.close').click(function(){
-        $('.hamburger-menu').hide('.active');
+        $('.hamburger-menu').hide();
 });
